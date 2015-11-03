@@ -11,4 +11,4 @@ Available libraries
 -----------------------
 
 
--
+- [2.1.4](https://github.com/lingtalfi/JQuery/releases/tag/2.1.4)
