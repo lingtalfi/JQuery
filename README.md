@@ -1,6 +1,6 @@
-JQuery
+Jquery
 =============
-2015-11-03
+2015-11-03 -> 2020-05-28
 
 
 
@@ -25,7 +25,24 @@ Available libraries
 -----------------------
 
 
-- [2.1.4](https://github.com/lingtalfi/JQuery/releases/tag/2.1.4)
+- 2.1.4
+- 3.5.11
+
+
+
+
+How to use
+---------------
+
+Import the planet, then inject the library in your html:
+
+```html 
+<script src="/libs/universe/Ling/Jquery/3.5.1/jquery.min.js"></script>
+```
+
+
+Note: we're using the [recommended assets structure for the universe](https://github.com/lingtalfi/NotationFan/blob/master/universe-assets.md).
+
 
 
 
@@ -34,6 +51,10 @@ Available libraries
 
 History Log
 ===============
+
+- 1.1.0 -- 2020-05-28
+
+    - using universe recommended structure for assets
 
 - 1.0.0 -- 2015-11-03
 
