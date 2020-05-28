@@ -4,7 +4,7 @@ Jquery
 
 
 
-JQuery is part of the [universe framework](https://github.com/karayabin/universe-snapshot).
+Jquery is part of the [universe framework](https://github.com/karayabin/universe-snapshot).
 
 
 Install
@@ -13,7 +13,7 @@ Install
 
 Using the [uni tool](https://github.com/lingtalfi/universe-naive-importer)
 ```bash
-uni import JQuery
+uni import Jquery
 ```
 
 
@@ -52,6 +52,10 @@ Note: we're using the [recommended assets structure for the universe](https://gi
 History Log
 ===============
 
+- 1.1.1 -- 2020-05-28
+
+    - fix case from JQuery to Jquery
+    
 - 1.1.0 -- 2020-05-28
 
     - using universe recommended structure for assets
